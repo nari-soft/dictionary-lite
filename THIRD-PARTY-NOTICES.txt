@@ -1,0 +1,127 @@
+THÔNG BÁO VỀ THÀNH PHẦN CỦA BÊN THỨ BA
+=======================================
+
+Nari sử dụng các thư viện và dữ liệu dưới đây. Bản quyền của từng thành phần
+thuộc về tác giả tương ứng.
+
+Tệp này tồn tại để giữ đúng nghĩa vụ của các giấy phép nói trên — đặc biệt là
+IPADIC, thứ mà gói NuGet Kuromoji KHÔNG kèm theo thông báo bản quyền. Đừng xoá.
+
+
+-------------------------------------------------------------------------------
+Google Dịch — dịch vụ của Google LLC
+-------------------------------------------------------------------------------
+
+NARI KHÔNG TỰ DỊCH. Toàn bộ phần dịch văn bản do dịch vụ Google Dịch thực hiện;
+Nari chỉ nhận chữ bạn gõ, gửi đi, rồi hiển thị kết quả nhận về.
+
+"Google" và "Google Dịch" là thương hiệu của Google LLC. Bản dịch do Google tạo
+ra và thuộc về Google. Nari KHÔNG liên kết với Google, KHÔNG được Google tài
+trợ, chứng thực hay kiểm duyệt.
+
+Nội dung bạn bấm gửi sẽ đi tới máy chủ của Google qua kết nối HTTPS và chịu
+Điều khoản dịch vụ cùng Chính sách quyền riêng tư của Google. Vì phụ thuộc vào
+dịch vụ của bên thứ ba, chức năng dịch có thể ngừng hoạt động bất cứ lúc nào mà
+không báo trước.
+
+
+-------------------------------------------------------------------------------
+Kuromoji — Apache License 2.0
+-------------------------------------------------------------------------------
+
+Tách từ và đọc kanji tiếng Nhật.
+
+Bên trong Kuromoji có kèm từ điển IPADIC:
+
+    Copyright (c) 2000, 2001, 2002, 2003 Nara Institute of Science
+    and Technology. All Rights Reserved.
+
+    Use, reproduction, and distribution of this software is permitted.
+    Any copy of this software, whether in its original form or modified,
+    must include both the above copyright notice and the following
+    paragraphs.
+
+    Nara Institute of Science and Technology (NAIST), the copyright holders,
+    disclaims all warranties with regard to this software, including all
+    implied warranties of merchantability and fitness, in no event shall
+    NAIST be liable for any special, indirect or consequential damages or
+    any damages whatsoever resulting from loss of use, data or profits,
+    whether in an action of contract, negligence or other tortuous action,
+    arising out of or in connection with the use or performance of this
+    software.
+
+IPADIC do Viện Khoa học và Công nghệ Nara (NAIST) phát hành theo giấy phép
+riêng; bản quyền thuộc về Viện.
+
+
+-------------------------------------------------------------------------------
+Tesseract OCR — Apache License 2.0
+-------------------------------------------------------------------------------
+
+Đọc chữ trong ảnh. Chạy hoàn toàn trên máy bạn, ảnh không rời khỏi máy.
+
+Kèm theo dữ liệu ngôn ngữ tessdata (Apache License 2.0) cho tiếng Việt, Anh,
+Hàn, Nhật, Trung.
+
+
+-------------------------------------------------------------------------------
+Leptonica — BSD 2-Clause
+-------------------------------------------------------------------------------
+
+Thư viện xử lý ảnh đi kèm Tesseract.
+
+    Copyright (C) 2001-2016 Leptonica.  All rights reserved.
+
+    Redistribution and use in source and binary forms, with or without
+    modification, are permitted provided that the following conditions
+    are met:
+    1. Redistributions of source code must retain the above copyright
+       notice, this list of conditions and the following disclaimer.
+    2. Redistributions in binary form must reproduce the above copyright
+       notice, this list of conditions and the following disclaimer in the
+       documentation and/or other materials provided with the distribution.
+
+    THIS SOFTWARE IS PROVIDED BY THE COPYRIGHT HOLDERS AND CONTRIBUTORS
+    ``AS IS'' AND ANY EXPRESS OR IMPLIED WARRANTIES, INCLUDING, BUT NOT
+    LIMITED TO, THE IMPLIED WARRANTIES OF MERCHANTABILITY AND FITNESS FOR
+    A PARTICULAR PURPOSE ARE DISCLAIMED.
+
+
+-------------------------------------------------------------------------------
+CMUdict — BSD
+-------------------------------------------------------------------------------
+
+Từ điển phiên âm IPA tiếng Anh.
+
+
+-------------------------------------------------------------------------------
+pypinyin — MIT License
+-------------------------------------------------------------------------------
+
+Dữ liệu pinyin dùng cho phiên âm tiếng Trung.
+
+
+-------------------------------------------------------------------------------
+.NET Runtime — MIT License
+-------------------------------------------------------------------------------
+
+Copyright (c) .NET Foundation and Contributors.
+
+Đã kèm sẵn trong bộ cài, bạn không phải tải thêm gì.
+
+
+-------------------------------------------------------------------------------
+Giọng đọc
+-------------------------------------------------------------------------------
+
+Giọng đọc là thành phần của Windows, KHÔNG đi kèm Nari. Máy nào muốn nghe thứ
+tiếng nào thì cài giọng đó qua Settings › Time & language › Speech.
+
+Gõ //voice trong Nari để xem máy đang có giọng nào.
+
+
+-------------------------------------------------------------------------------
+Không dùng mô hình AI nào
+-------------------------------------------------------------------------------
+
+Bản này KHÔNG kèm mô hình AI và KHÔNG tải thêm gì về máy sau khi cài.
