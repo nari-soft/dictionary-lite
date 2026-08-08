@@ -73,8 +73,13 @@ sẽ xin quyền Administrator để Windows tải giọng về.
 
 ## 6. Thời hạn sử dụng
 
-Nari có thời hạn sử dụng. Hết hạn thì **giao diện vẫn chạy bình thường**, chỉ
-hiện một dòng báo; nhập mã mới là dùng tiếp theo thời hạn ghi trong mã đó.
+Nari có thời hạn sử dụng. Hết hạn thì **phần dịch vẫn chạy bình thường** —
+Nari không khoá thứ bạn dùng hằng ngày. Riêng **đọc chữ trong ảnh (OCR) tạm
+dừng** cho tới khi gia hạn.
+
+Mỗi lần mở Nari sẽ có một dòng báo, và nút chụp vẫn bấm được — bấm vào thì Nari
+nói rõ vì sao chưa dùng được. Gõ `//key <mã của bạn>` là dùng lại được ngay,
+không cần khởi động lại.
 
 ## 7. Bản quyền và giới hạn
 
